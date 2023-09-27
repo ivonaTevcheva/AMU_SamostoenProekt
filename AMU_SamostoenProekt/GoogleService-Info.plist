@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBdZI_PrDZMfVEkxQE9c9PxBTMVdkC41PA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>172457301514</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Ivona.AMU-SamostoenProekt</string>
+	<key>PROJECT_ID</key>
+	<string>amu-samostoenproekt</string>
+	<key>STORAGE_BUCKET</key>
+	<string>amu-samostoenproekt.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:172457301514:ios:6605620d6d52c77a06b1f3</string>
+</dict>
+</plist>
