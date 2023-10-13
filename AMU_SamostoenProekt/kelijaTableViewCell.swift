@@ -10,6 +10,16 @@ import UIKit
 
 class kelijaTableViewCell: UITableViewCell {
 
+    @IBOutlet weak var timeLabel: UILabel!
+    @IBOutlet weak var distanceLabel: UILabel!
+    @IBOutlet weak var caloriesLabel: UILabel!
+
+    func configure(with run: Run) {
+        timeLabel.text = "\(run.time) mins"
+        distanceLabel.text = "\(run.kilometers) km"
+        caloriesLabel.text = "\(run.caloriesBurned) kcal"
+    }
+    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
